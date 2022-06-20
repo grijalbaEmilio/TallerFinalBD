@@ -1,0 +1,14 @@
+SELECT *, ROW_NUMBER() FROM city;
+SELECT * FROM address;
+SELECT * FROM dealership;
+SELECT * FROM branch;
+SELECT * FROM person;
+SELECT * FROM advisor;
+SELECT * FROM client_p;
+SELECT * FROM vehicle_brand;
+SELECT * FROM vehicle_color;
+SELECT * FROM vehicle_type;
+SELECT * FROM purchase_receipt;
+SELECT * FROM vehicle_insurer;
+SELECT * FROM dealership_insurer;
+SELECT * FROM insurance_types;

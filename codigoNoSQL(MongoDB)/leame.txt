@@ -1,0 +1,5 @@
+ejecutar en el proyecto:
+$ pytho3 src/app.py
+
+enseguida podrá crear direcciones, concesionarias, clientes, asesores, aseguradoras y hacer las consultas sobre ella
+¡ dejo mi base "final_proyect_db" de datos para que pueda probar las consulas !
